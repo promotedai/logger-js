@@ -1,8 +1,6 @@
 # logger-ts
 
-This library is used to convert
-
-
+This library is used to convert Snowplow events to Promoted events.
 
 # Scripts
 
