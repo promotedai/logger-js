@@ -1,6 +1,16 @@
-# logger-js
+# logger-ts
+
+This library is used to convert
 
 
+
+# Scripts
+
+```
+npm run finish
+```
+
+Other scripts are supported.  Look inside `package.json`.
 
 # Resources
 
