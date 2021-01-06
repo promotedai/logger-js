@@ -1,5 +1,5 @@
 {
-  "name": "@promotedai/logger-js",
+  "name": "@promotedai/logger-ts",
   "version": "1.0.0",
   "description": "Library for converting Snowplow events to Promoted Events",
   "main": "./dist/index.js",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/promotedai/logger-js"
+    "url": "https://github.com/promotedai/logger-ts"
   },
   "author": "Dan Hill <dhill@promoted.ai>",
   "license": "MIT",
@@ -19,7 +19,7 @@
     "javascript",
     "package"
   ],
-  "homepage": "https://github.com/promotedai/logger-js",
+  "homepage": "https://github.com/promotedai/logger-ts",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged",
