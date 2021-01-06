@@ -22,7 +22,7 @@ jobs:
           scope: "@promoted"
 
       - name: Install dependencies
-        run: npm i
+        run: npm i && npm config set access public
 
       - name: Build
         run: npm run build
