@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/promotedai/logger-js/compare/v1.1.0...v1.1.1) (2021-01-06)
+
+
+### Bug Fixes
+
+* revert to promotedai scope ([47594d8](https://github.com/promotedai/logger-js/commit/47594d8b80bcca3493c43597465713d05baa5ac3))
+
 # [1.1.0](https://github.com/promotedai/logger-js/compare/v1.0.4...v1.1.0) (2021-01-06)
 
 
