@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/promotedai/logger-js/compare/v1.0.4...v1.1.0) (2021-01-06)
+
+
+### Features
+
+* try to use new scope ([4129364](https://github.com/promotedai/logger-js/commit/41293647c49811ca016bb74e711d14f4aa709a24))
+
 ## [1.0.4](https://github.com/promotedai/logger-js/compare/v1.0.3...v1.0.4) (2021-01-06)
 
 
