@@ -1,5 +1,5 @@
 {
-  "name": "logger-js",
+  "name": "@promotedai/logger-js",
   "version": "1.0.0",
   "description": "Library for converting Snowplow events to Promoted Events",
   "main": "./dist/index.js",
