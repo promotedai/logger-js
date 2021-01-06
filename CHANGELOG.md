@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/promotedai/logger-js/compare/v1.0.3...v1.0.4) (2021-01-06)
+
+
+### Bug Fixes
+
+* try setting public access ([29ba7b1](https://github.com/promotedai/logger-js/commit/29ba7b127b04d41bf26714dc35960f52e3a66ff0))
+
 ## [1.0.3](https://github.com/promotedai/logger-js/compare/v1.0.2...v1.0.3) (2021-01-06)
 
 
