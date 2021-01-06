@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/promotedai/logger-js/compare/v1.0.1...v1.0.2) (2021-01-06)
+
+
+### Bug Fixes
+
+* package ([a684e1c](https://github.com/promotedai/logger-js/commit/a684e1c940589e2a66198aee02e7549d9e16d5a7))
+
 ## [1.0.1](https://github.com/promotedai/logger-js/compare/v1.0.0...v1.0.1) (2021-01-06)
 
 
